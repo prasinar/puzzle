@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Mad_Head_Puzzle_0</name>
+    </assembly>
+    <members>
+        <member name="M:Mad_Head_Puzzle.App.OnActivated">
+            <summary>
+            Called when [activated].
+            </summary>
+        </member>
+        <member name="M:Mad_Head_Puzzle.App.OnDeactivate">
+            <summary>
+            Called when [deactivate].
+            </summary>
+        </member>
+        <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Images.background_png">
+            <summary> Path to Content/Assets/Images/background.png </summary>
+        </member>
+        <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Images.piece0_png">
+            <summary> Path to Content/Assets/Images/piece0.png </summary>
+        </member>
+        <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Images.piece1_png">
+            <summary> Path to Content/Assets/Images/piece1.png </summary>
+        </member>
+        <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Images.piece2_png">
+            <summary> Path to Content/Assets/Images/piece2.png </summary>
+        </member>
+        <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Images.piece3_png">
+            <summary> Path to Content/Assets/Images/piece3.png </summary>
+        </member>
+        <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Images.piece4_png">
+            <summary> Path to Content/Assets/Images/piece4.png </summary>
+        </member>
+        <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Images.piece5_png">
+            <summary> Path to Content/Assets/Images/piece5.png </summary>
+        </member>
+        <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Images.piece6_png">
+            <summary> Path to Content/Assets/Images/piece6.png </summary>
+        </member>
+        <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Images.piece7_png">
+            <summary> Path to Content/Assets/Images/piece7.png </summary>
+        </member>
+        <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Images.resetbutton_png">
+            <summary> Path to Content/Assets/Images/resetbutton.png </summary>
+        </member>
+        <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Images.slot_png">
+            <summary> Path to Content/Assets/Images/slot.png </summary>
+        </member>
+        <member name="F:Mad_Head_Puzzle.WaveContent.Scenes.MyScene">
+            <summary> Path to Content/Scenes/MyScene.wscene </summary>
+        </member>
+    </members>
+</doc>

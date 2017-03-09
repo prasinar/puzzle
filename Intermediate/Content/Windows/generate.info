@@ -1,0 +1,124 @@
+﻿<GenerateInfo xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="WaveEditor.Exporter.Model">
+  <files xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Milos/Documents/Wave Engine/puzzle/Mad_Head_Puzzle/Content/Assets/Images/background.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>967a0224aa6c12ee19682ae141449ca4</FileHash>
+        <WinfoHash>e76dc44a49f95ac0d6f3322745c7ff6a</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Milos/Documents/Wave Engine/puzzle/Mad_Head_Puzzle/Content/Assets/Images/piece0.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>e6d15418f735fce02bcb210687163516</FileHash>
+        <WinfoHash>0814b989ae607b8902462a4843d510af</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Milos/Documents/Wave Engine/puzzle/Mad_Head_Puzzle/Content/Assets/Images/piece1.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>62f07b9a8ffdc7a64afa221c9846580a</FileHash>
+        <WinfoHash>236894ffbb3677d4b26f303fb3335fa2</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Milos/Documents/Wave Engine/puzzle/Mad_Head_Puzzle/Content/Assets/Images/piece2.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>4cb9758db4d75b9903e7f4d5ac80feeb</FileHash>
+        <WinfoHash>fd2578a45ecdffb893c4297419089abd</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Milos/Documents/Wave Engine/puzzle/Mad_Head_Puzzle/Content/Assets/Images/piece3.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>d224bf217770513c33f088130558f308</FileHash>
+        <WinfoHash>a3c8fe0d9f05410178771da6da83fca7</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Milos/Documents/Wave Engine/puzzle/Mad_Head_Puzzle/Content/Assets/Images/piece4.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>8e651a43d45a66f363f17ba15e5e5ad3</FileHash>
+        <WinfoHash>9d3e8bb9eeda9a3e0a7eef40956a1126</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Milos/Documents/Wave Engine/puzzle/Mad_Head_Puzzle/Content/Assets/Images/piece5.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>a7980e7cf187039a8855b9c101d09eff</FileHash>
+        <WinfoHash>f32cdb2d62a08b03c3c97e00262ccf8b</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Milos/Documents/Wave Engine/puzzle/Mad_Head_Puzzle/Content/Assets/Images/piece6.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>bee2780f8967618480aae80b2fc41ccf</FileHash>
+        <WinfoHash>86d5b4716db265a1458d8e566ea46480</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Milos/Documents/Wave Engine/puzzle/Mad_Head_Puzzle/Content/Assets/Images/piece7.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>c7c56451db3f52fcd1de62996c9c5d65</FileHash>
+        <WinfoHash>eb5c32ead07af385c5841704d6480ae3</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Milos/Documents/Wave Engine/puzzle/Mad_Head_Puzzle/Content/Assets/Images/slot.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>b0557eef99e4e4a09658c00fdf9cbda4</FileHash>
+        <WinfoHash>60b616fd19b8b5530f5b59e3298046f7</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Milos/Documents/Wave Engine/puzzle/Mad_Head_Puzzle/Content/Assets/Images/resetbutton.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>a71cf339992780726c7df2c6941460e7</FileHash>
+        <WinfoHash>36fccc3bba91c417ebcfbfc9d06838e0</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Milos/Documents/Wave Engine/puzzle/Mad_Head_Puzzle/Content/Assets/Images/congratulations.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>a9e598af0b5516c4ddca37dbad396908</FileHash>
+        <WinfoHash>74d63cf7d1053b2f159e7cacac1aa7c5</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Milos/Documents/Wave Engine/puzzle/Mad_Head_Puzzle/Content/Assets/Images/gamelogo.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>b69b5e82d16bc46c66dbc411bde41dde</FileHash>
+        <WinfoHash>bb114f61e50f2f37a751ea3d43e79e63</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Milos/Documents/Wave Engine/puzzle/Mad_Head_Puzzle/Content/Assets/Images/intro.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>d6d6b6315546b1f5f2f4e6ebebf89602</FileHash>
+        <WinfoHash>e65c3be6c90022e06ce9f052f17ed668</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Milos/Documents/Wave Engine/puzzle/Mad_Head_Puzzle/Content/Assets/Images/instructions.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>6064e406037282d08dab1b9b18bd7b7d</FileHash>
+        <WinfoHash>542b2247c434d7b2d8ecf570794cc40f</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:\Users\Milos\Documents\Wave Engine\puzzle\Mad_Head_Puzzle\Content\Assets\Audio\background.mp3#WaveEditor.Exporter.Exporters.ByPassExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>40a2372d195ef35ef9027ac2e174c264</FileHash>
+        <WinfoHash>73ea5efde4083d83f5d8be6c09ccf4c5</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Milos/Documents/Wave Engine/puzzle/Mad_Head_Puzzle/Content/Assets/Audio/congratulations.wav#WaveEditor.Exporter.Exporters.SoundExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>9aefd12553b1666cbe345dd7c1d78fd2</FileHash>
+        <WinfoHash>c4c382ca0b2f7eac9b980b188777f7f6</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+  </files>
+  <id>BFEBFBFF00010676</id>
+</GenerateInfo>
