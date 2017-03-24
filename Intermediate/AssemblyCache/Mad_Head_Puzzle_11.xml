@@ -26,6 +26,12 @@
         <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Images.congratulations_png">
             <summary> Path to Content/Assets/Images/congratulations.png </summary>
         </member>
+        <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Images.exit_png">
+            <summary> Path to Content/Assets/Images/exit.png </summary>
+        </member>
+        <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Images.fullscreen_png">
+            <summary> Path to Content/Assets/Images/fullscreen.png </summary>
+        </member>
         <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Images.gamelogo_png">
             <summary> Path to Content/Assets/Images/gamelogo.png </summary>
         </member>

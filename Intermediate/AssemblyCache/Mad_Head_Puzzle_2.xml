@@ -14,11 +14,26 @@
             Called when [deactivate].
             </summary>
         </member>
+        <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Audio.background_mp3">
+            <summary> Path to Content/Assets/Audio/background.mp3 </summary>
+        </member>
+        <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Audio.congratulations_wav">
+            <summary> Path to Content/Assets/Audio/congratulations.wav </summary>
+        </member>
         <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Images.background_png">
             <summary> Path to Content/Assets/Images/background.png </summary>
         </member>
         <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Images.congratulations_png">
             <summary> Path to Content/Assets/Images/congratulations.png </summary>
+        </member>
+        <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Images.gamelogo_png">
+            <summary> Path to Content/Assets/Images/gamelogo.png </summary>
+        </member>
+        <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Images.instructions_png">
+            <summary> Path to Content/Assets/Images/instructions.png </summary>
+        </member>
+        <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Images.intro_png">
+            <summary> Path to Content/Assets/Images/intro.png </summary>
         </member>
         <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Images.piece0_png">
             <summary> Path to Content/Assets/Images/piece0.png </summary>

@@ -143,8 +143,8 @@
     <d2p1:KeyValueOfstringFileHashesH8kexHFU>
       <d2p1:Key>C:/Users/Milos/Documents/Wave Engine/puzzle/puzzle/Content/Assets/Images/congratulations.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
       <d2p1:Value>
-        <FileHash>a9e598af0b5516c4ddca37dbad396908</FileHash>
-        <WinfoHash>74d63cf7d1053b2f159e7cacac1aa7c5</WinfoHash>
+        <FileHash>1afa281ba148fdf2f9031ee60f074504</FileHash>
+        <WinfoHash>264e6b9cb38b283811705166275d2f8f</WinfoHash>
       </d2p1:Value>
     </d2p1:KeyValueOfstringFileHashesH8kexHFU>
     <d2p1:KeyValueOfstringFileHashesH8kexHFU>
@@ -157,15 +157,15 @@
     <d2p1:KeyValueOfstringFileHashesH8kexHFU>
       <d2p1:Key>C:/Users/Milos/Documents/Wave Engine/puzzle/puzzle/Content/Assets/Images/instructions.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
       <d2p1:Value>
-        <FileHash>6064e406037282d08dab1b9b18bd7b7d</FileHash>
-        <WinfoHash>542b2247c434d7b2d8ecf570794cc40f</WinfoHash>
+        <FileHash>c543a6b3972938334f3e384d10bb8ef9</FileHash>
+        <WinfoHash>f6bf88a18f7704dd916382e7b16e95d2</WinfoHash>
       </d2p1:Value>
     </d2p1:KeyValueOfstringFileHashesH8kexHFU>
     <d2p1:KeyValueOfstringFileHashesH8kexHFU>
       <d2p1:Key>C:/Users/Milos/Documents/Wave Engine/puzzle/puzzle/Content/Assets/Images/intro.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
       <d2p1:Value>
-        <FileHash>d6d6b6315546b1f5f2f4e6ebebf89602</FileHash>
-        <WinfoHash>e65c3be6c90022e06ce9f052f17ed668</WinfoHash>
+        <FileHash>2de83dff39aa8d1fc96e8c82209a6b11</FileHash>
+        <WinfoHash>76f341c92e43b31961147ffa5fc88cec</WinfoHash>
       </d2p1:Value>
     </d2p1:KeyValueOfstringFileHashesH8kexHFU>
     <d2p1:KeyValueOfstringFileHashesH8kexHFU>
@@ -227,8 +227,8 @@
     <d2p1:KeyValueOfstringFileHashesH8kexHFU>
       <d2p1:Key>C:/Users/Milos/Documents/Wave Engine/puzzle/puzzle/Content/Assets/Images/resetbutton.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
       <d2p1:Value>
-        <FileHash>a71cf339992780726c7df2c6941460e7</FileHash>
-        <WinfoHash>36fccc3bba91c417ebcfbfc9d06838e0</WinfoHash>
+        <FileHash>7e2ac4b68456b87ef014f4afdbee734c</FileHash>
+        <WinfoHash>a538270605e1da504bef686fbeaeca0c</WinfoHash>
       </d2p1:Value>
     </d2p1:KeyValueOfstringFileHashesH8kexHFU>
     <d2p1:KeyValueOfstringFileHashesH8kexHFU>
@@ -236,6 +236,27 @@
       <d2p1:Value>
         <FileHash>b0557eef99e4e4a09658c00fdf9cbda4</FileHash>
         <WinfoHash>60b616fd19b8b5530f5b59e3298046f7</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Milos/Documents/Wave Engine/puzzle/puzzle/Content/Assets/Images/exit.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>709e2acd093418a14219a3ed46f3b05a</FileHash>
+        <WinfoHash>ba65694e8e9bcee0a90061ebee83ac63</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Milos/Documents/Wave Engine/puzzle/puzzle/Content/Assets/Images/fullscreen.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>c74fe7e2ea1023f3546eff956fa5be19</FileHash>
+        <WinfoHash>263a857e3cf2d664dbf6ab980b4a56c0</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Milos/Documents/Wave Engine/puzzle/puzzle/Content/Assets/Images/fullscreenoff.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>2dbb9d1190ea45176a5dc5e7d6ae6ccb</FileHash>
+        <WinfoHash>32b8fa916b6a23198f20d174927726f0</WinfoHash>
       </d2p1:Value>
     </d2p1:KeyValueOfstringFileHashesH8kexHFU>
   </files>

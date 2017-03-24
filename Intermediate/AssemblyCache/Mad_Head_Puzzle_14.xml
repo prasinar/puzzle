@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Mad_Head_Puzzle_14</name>
+    </assembly>
+    <members>
+        <member name="M:Mad_Head_Puzzle.App.OnActivated">
+            <summary>
+            Called when [activated].
+            </summary>
+        </member>
+        <member name="M:Mad_Head_Puzzle.App.OnDeactivate">
+            <summary>
+            Called when [deactivate].
+            </summary>
+        </member>
+        <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Audio.background_mp3">
+            <summary> Path to Content/Assets/Audio/background.mp3 </summary>
+        </member>
+        <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Audio.congratulations_wav">
+            <summary> Path to Content/Assets/Audio/congratulations.wav </summary>
+        </member>
+        <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Images.background_png">
+            <summary> Path to Content/Assets/Images/background.png </summary>
+        </member>
+        <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Images.congratulations_png">
+            <summary> Path to Content/Assets/Images/congratulations.png </summary>
+        </member>
+        <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Images.exit_png">
+            <summary> Path to Content/Assets/Images/exit.png </summary>
+        </member>
+        <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Images.fullscreen_png">
+            <summary> Path to Content/Assets/Images/fullscreen.png </summary>
+        </member>
+        <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Images.fullscreenoff_png">
+            <summary> Path to Content/Assets/Images/fullscreenoff.png </summary>
+        </member>
+        <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Images.gamelogo_png">
+            <summary> Path to Content/Assets/Images/gamelogo.png </summary>
+        </member>
+        <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Images.instructions_png">
+            <summary> Path to Content/Assets/Images/instructions.png </summary>
+        </member>
+        <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Images.intro_png">
+            <summary> Path to Content/Assets/Images/intro.png </summary>
+        </member>
+        <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Images.piece0_png">
+            <summary> Path to Content/Assets/Images/piece0.png </summary>
+        </member>
+        <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Images.piece1_png">
+            <summary> Path to Content/Assets/Images/piece1.png </summary>
+        </member>
+        <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Images.piece2_png">
+            <summary> Path to Content/Assets/Images/piece2.png </summary>
+        </member>
+        <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Images.piece3_png">
+            <summary> Path to Content/Assets/Images/piece3.png </summary>
+        </member>
+        <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Images.piece4_png">
+            <summary> Path to Content/Assets/Images/piece4.png </summary>
+        </member>
+        <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Images.piece5_png">
+            <summary> Path to Content/Assets/Images/piece5.png </summary>
+        </member>
+        <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Images.piece6_png">
+            <summary> Path to Content/Assets/Images/piece6.png </summary>
+        </member>
+        <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Images.piece7_png">
+            <summary> Path to Content/Assets/Images/piece7.png </summary>
+        </member>
+        <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Images.resetbutton_png">
+            <summary> Path to Content/Assets/Images/resetbutton.png </summary>
+        </member>
+        <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Images.slot_png">
+            <summary> Path to Content/Assets/Images/slot.png </summary>
+        </member>
+        <member name="F:Mad_Head_Puzzle.WaveContent.Scenes.MyScene">
+            <summary> Path to Content/Scenes/MyScene.wscene </summary>
+        </member>
+    </members>
+</doc>

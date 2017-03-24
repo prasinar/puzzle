@@ -14,6 +14,12 @@
             Called when [deactivate].
             </summary>
         </member>
+        <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Audio.background_mp3">
+            <summary> Path to Content/Assets/Audio/background.mp3 </summary>
+        </member>
+        <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Audio.congratulations_wav">
+            <summary> Path to Content/Assets/Audio/congratulations.wav </summary>
+        </member>
         <member name="F:Mad_Head_Puzzle.WaveContent.Assets.Images.background_png">
             <summary> Path to Content/Assets/Images/background.png </summary>
         </member>

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-// File generated on 10.3.2017. 12:32:20
+// File generated on 24.3.2017. 22:00:29
 namespace Mad_Head_Puzzle
 {
     using System;
@@ -38,6 +38,15 @@ namespace Mad_Head_Puzzle
                 
                 /// <summary> Path to Content/Assets/Images/congratulations.png </summary>
                 public const string congratulations_png = "Content/Assets/Images/congratulations.png";
+                
+                /// <summary> Path to Content/Assets/Images/exit.png </summary>
+                public const string exit_png = "Content/Assets/Images/exit.png";
+                
+                /// <summary> Path to Content/Assets/Images/fullscreen.png </summary>
+                public const string fullscreen_png = "Content/Assets/Images/fullscreen.png";
+                
+                /// <summary> Path to Content/Assets/Images/fullscreenoff.png </summary>
+                public const string fullscreenoff_png = "Content/Assets/Images/fullscreenoff.png";
                 
                 /// <summary> Path to Content/Assets/Images/gamelogo.png </summary>
                 public const string gamelogo_png = "Content/Assets/Images/gamelogo.png";

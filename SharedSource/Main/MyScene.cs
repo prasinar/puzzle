@@ -23,12 +23,13 @@ namespace Mad_Head_Puzzle
     {
         const int WIDTH = 50;
 
-        Entity[][] slots;
+        public static Entity[][] slots;
         Piece[] pieces;
         public static bool[][] slotAvailable;
         public static int filledSlots;
-        Entity resetButton, instructions, intro;
+        Entity resetButton, instructions, intro, fullscreen;
         public static Entity congratulations;
+        public static Entity exit;
         SoundBank soundBank;
         public static SoundInfo congratulationsSound;
 
@@ -73,7 +74,8 @@ namespace Mad_Head_Puzzle
                             DrawOrder = 0.9f
                         })
                         .AddComponent(new Sprite(WaveContent.Assets.Images.slot_png))
-                        .AddComponent(new SpriteRenderer());
+                        .AddComponent(new SpriteRenderer())
+                        .AddComponent(new RectangleCollider2D());
                     this.EntityManager.Add(slots[i][j]);
                 }
             }
@@ -152,8 +154,7 @@ namespace Mad_Head_Puzzle
             resetButton = new Entity()
                         .AddComponent(new Transform2D()
                         {
-                            Origin = new Vector2(0.5f, 0.5f),
-                            Position = new Vector2(0, 210),
+                            Position = new Vector2(-225, 180),
                             DrawOrder = 0.9f
                         })
                         .AddComponent(new Sprite(WaveContent.Assets.Images.resetbutton_png))
@@ -166,6 +167,26 @@ namespace Mad_Head_Puzzle
                 ResetGame();
             };
             this.EntityManager.Add(resetButton);
+
+            //fullscreen button init
+            fullscreen = new Entity()
+                        .AddComponent(new Transform2D()
+                        {
+                            Position = new Vector2(-20, 180),
+                            DrawOrder = 0.9f
+                        })
+                        .AddComponent(new Sprite(WaveContent.Assets.Images.fullscreenoff_png))
+                        .AddComponent(new SpriteRenderer())
+                        .AddComponent(new RectangleCollider2D())
+                        .AddComponent(new TouchGestures());
+            //switch fullscreen
+            fullscreen.FindComponent<TouchGestures>().TouchTap += (s, e) =>
+            {
+                Program.game.FullScreen = !Program.game.FullScreen;
+                if (Program.game.FullScreen) fullscreen.FindComponent<Sprite>().TexturePath = WaveContent.Assets.Images.fullscreen_png;
+                else fullscreen.FindComponent<Sprite>().TexturePath = WaveContent.Assets.Images.fullscreenoff_png;
+            };
+            this.EntityManager.Add(fullscreen);
 
             //congratulations message
             congratulations = new Entity()
@@ -212,8 +233,7 @@ namespace Mad_Head_Puzzle
             instructions = new Entity()
                         .AddComponent(new Transform2D()
                         {
-                            Origin = new Vector2(0.5f, 0.5f),
-                            Position = new Vector2(0, 300),
+                            Position = new Vector2(-225, 250),
                             DrawOrder = 0.9f
                         })
                         .AddComponent(new Sprite(WaveContent.Assets.Images.instructions_png))
@@ -226,6 +246,24 @@ namespace Mad_Head_Puzzle
                 intro.IsVisible = true;
             };
             this.EntityManager.Add(instructions);
+
+            //exit button
+            exit = new Entity()
+                        .AddComponent(new Transform2D()
+                        {
+                            Position = new Vector2(83, 250),
+                            DrawOrder = 0.9f
+                        })
+                        .AddComponent(new Sprite(WaveContent.Assets.Images.exit_png))
+                        .AddComponent(new SpriteRenderer())
+                        .AddComponent(new RectangleCollider2D())
+                        .AddComponent(new TouchGestures());
+            //exit when pressed
+            exit.FindComponent<TouchGestures>().TouchTap += (s, e) =>
+            {
+                Program.game.shouldExit = true;
+            };
+            this.EntityManager.Add(exit);
         }
 
         protected void ResetGame()

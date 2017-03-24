@@ -7,10 +7,11 @@ namespace Mad_Head_Puzzle
 {
     static class Program
     {
+        public static App game;
 		[STAThread]
         static void Main()
         {
-            using (App game = new App())
+            using (game = new App())
             {
                 game.Run();
             }

@@ -18,15 +18,16 @@ namespace Mad_Head_Puzzle
         TimeSpan time;
         Vector2 position;
         Color backgroundSplashColor;
+        public bool shouldExit = false;
 		
         public App()
         {
             this.Width = 1280;
             this.Height = 720;
 			this.FullScreen = false;
-			this.WindowTitle = "Mad_Head_Puzzle";
+			this.WindowTitle = "Mad Head Puzzle";
             this.HasVideoSupport = true;
-    }
+        }
 
         public override void Initialize()
         {
@@ -67,7 +68,7 @@ namespace Mad_Head_Puzzle
 
         public override void Update(TimeSpan elapsedTime)
         {
-             if (this.game != null && !this.game.HasExited)
+            if (this.game != null && !this.game.HasExited)
             {
                 if (WaveServices.Input.KeyboardState.F10 == ButtonState.Pressed)
                 {
@@ -95,6 +96,7 @@ namespace Mad_Head_Puzzle
                         this.game.UpdateFrame(elapsedTime);
                     }
                 }
+                if (shouldExit) WaveServices.Platform.Exit();
             }
         }
 
